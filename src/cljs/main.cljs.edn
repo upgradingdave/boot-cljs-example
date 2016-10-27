@@ -1,0 +1,2 @@
+{:require [up.core]
+ :init-fns [up.core/main]}
