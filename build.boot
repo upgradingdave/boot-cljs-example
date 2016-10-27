@@ -26,6 +26,7 @@
   []
   (comp
    (cljs)
+   (target)
    (serve)
    (wait)))
 
